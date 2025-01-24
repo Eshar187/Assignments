@@ -1,0 +1,26 @@
+3 Assignment
+
+# Key Testing Areas for "Scheduled Rides"
+- Functional Testing:
+    - Ensure successful ride booking up to 7 days in advance.
+    - Validate notifications (30 and 5 minutes prior).
+    - Check penalty enforcement for late cancellations.
+- Usability Testing:
+    - Verify user-friendly ride scheduling.
+    - Confirm driver reminders are clear and visible.
+- Performance Testing:
+    - Test app stability during high booking volume.
+    - Measure notification delivery times.
+- Edge Case Testing:
+    - Handle invalid inputs and overlapping bookings.
+    - Validate behavior for time zone differences.
+- Integration Testing:
+    - Sync driver and user apps for scheduled rides.
+    - Test penalty calculations and navigation integration.
+
+
+# Attractive Features for Taxi Apps
+-Real-Time Tracking: Live driver location updates.
+-Multi-Destination Rides: Add multiple stops in one trip.
+-SOS Button: Emergency alerts for safety.
+-Ride Preferences: Choose music, air conditioning, or quiet rides.
